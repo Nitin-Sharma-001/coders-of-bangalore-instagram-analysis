@@ -51,7 +51,8 @@ The dataset was messy, unstructured text collected manually — and the goal was
 
 ### Example Output:
 
-<img width="1387" height="205" alt="image" src="https://github.com/user-attachments/assets/6188b08f-d362-4e3d-b0cb-b1d568713bb6" />
+<img width="1391" height="201" alt="image" src="https://github.com/user-attachments/assets/778dd09d-1332-4887-9dec-46845452814b" />
+
 
 ---
 
