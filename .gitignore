@@ -1,0 +1,36 @@
+.ipynb_checkpoints/
+
+.virtual_documents
+
+# .anaconda_projects/
+anaconda_projects\
+
+
+Harry-coders-of-bangalore-3/
+
+# Ignore environment variables file
+.env            
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+virtualenv/
+.virtual_documents
+
+# VS Code folders
+.vscode/
+
+# Anaconda project files
+anaconda_projects/
+
+# System files
+.DS_Store
+Thumbs.db
